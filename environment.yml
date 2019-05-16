@@ -1,0 +1,10 @@
+name: ogc-polygon-subset
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - GDAL
+  - xarray
+  - ipyleaflet
