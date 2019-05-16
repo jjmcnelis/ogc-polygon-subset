@@ -6,5 +6,6 @@ dependencies:
   - python
   - numpy
   - GDAL
+  - netCDF4
   - xarray
   - ipyleaflet
